@@ -28,7 +28,7 @@ const person = {
     brand :"vivo",
     model :"u20",
     ram: "4gb",
-    color:"blue",
+    color:"blue"
  
  };
  console.log(mobile)
@@ -125,6 +125,8 @@ const person = {
  }; 
  console.log(mail)
  // 12
+
+
 const predator={
     brand:"acer",
     type:"gaming laptop",
@@ -132,5 +134,40 @@ const predator={
     graphics:"rtx3060",
     price:"60,000"
 };
+//    13
 
 console.log(predator)
+
+const headset={
+    brand:"leaf",
+    model:"ear",
+    price:"999.Rs",
+    head:"boat",
+    year:"2021"
+};
+
+console.log(headset)
+
+// 14
+
+const channel={
+    owner:"ramesh",
+    cname:"aranvlogs",
+    subs:"1.5million",
+    year:"2023",
+    monetization:"yes",
+    income:"3000 dollar"
+};
+
+console.log(channel)
+
+// 15
+
+const hiring={
+    experience:"1 to 2 years",
+    salary:"4.5LPA",
+    skills:"javascript,css3,HTML5,TypeScript",
+    fresher:"allowed",
+    company:"tcs"
+};
+console.log(hiring)
